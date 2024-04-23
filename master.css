@@ -1,0 +1,137 @@
+/*logo*/
+#logo{
+    display: inline;
+    vertical-align: middle;
+    margin:10px;
+    height:60px;
+}
+
+*{
+    font-family: "Golos Text", sans-serif;
+}
+
+/*body*/
+body{
+    background-color: rgb(236, 236, 236);
+}
+
+
+
+/*titolo*/
+h1{
+    display: inline;
+    font-size: 40px;
+    height: 50px;
+    font-weight: bold;
+    margin-top: 0;
+    vertical-align: middle;
+}
+
+
+.contenitore{
+    margin:auto;
+    padding-left: 100px;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    padding-right: 100px;
+}
+
+.contenitore2{
+    background-color: white;
+    padding: 100px;
+    padding-top: 20px;
+    border-radius: 8px;
+    padding-bottom: 40px;
+    margin-bottom: 5px;
+    
+}
+
+#add1{
+    background-color: #66AAED;
+    color: white;
+    border-radius: 10px;
+    border: 1px solid #66AAED;
+    height: 30px;
+}
+
+#add2{
+    background-color: white;
+    color: rgb(216, 216, 216);
+    border-radius: 10px;
+    border: 1px solid rgb(216, 216, 216);
+    height: 30px;
+}
+
+.contenitore3{
+    background-color: white;
+    padding: 100px;
+    padding-top: 20px;
+    border-radius: 8px;
+    padding-bottom: 20px;
+    
+}
+
+.titoletti{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.frecce{
+    font-size: 30px;
+}
+
+.check{
+    color: green;
+}
+
+.editorial{
+    background-color: #66AAED;
+    color: white;
+    border-radius: 10px;
+    border: 1px solid #66AAED;
+    height: 30px;
+}
+
+.Q1{
+    background-color: purple;
+    color: white;
+    border-radius: 10px;
+    border: 1px solid purple;
+    height: 30px;
+}
+
+.cross{
+    color:red;
+}
+
+.Recruiting{
+    background-color: lightgreen;
+    color: white;
+    border-radius: 10px;
+    border: 1px solid lightgreen;
+    height: 30px;
+}
+
+.Mobile{
+    background-color: orange;
+    color: white;
+    border-radius: 10px;
+    border: 1px solid orange;
+    height: 30px;
+}
+
+.Website{
+    background-color: pink;
+    color: white;
+    border-radius: 10px;
+    border: 1px solid pink;
+    height: 30px;
+}
+
+.Sales{
+    background-color: lightgreen;
+    color: white;
+    border-radius: 10px;
+    border: 1px solid ;
+    height: 30px;
+}
